@@ -1,0 +1,48 @@
+Customer ID: CUST001
+Name: Rahul Sharma
+Age: 29
+Gender: Male
+Occupation: Software Engineer
+Preferred Language: English
+Salary Account: Yes
+Monthly Income: 85000
+UPI Enabled: Yes
+Mobile Banking Registered: Yes
+AutoPay Enabled: No
+SIP Active: No
+Insurance AutoPay: No
+Primary Bank: SBI
+
+===
+
+Customer ID: CUST002
+Name: Priya Verma
+Age: 34
+Gender: Female
+Occupation: Marketing Manager
+Preferred Language: English
+Salary Account: Yes
+Monthly Income: 120000
+UPI Enabled: Yes
+Mobile Banking Registered: Yes
+AutoPay Enabled: Yes
+SIP Active: No
+Insurance AutoPay: Yes
+Primary Bank: SBI
+
+===
+
+Customer ID: CUST003
+Name: Amit Singh
+Age: 41
+Gender: Male
+Occupation: Business Owner
+Preferred Language: Hindi
+Salary Account: No
+Monthly Income: 150000
+UPI Enabled: Yes
+Mobile Banking Registered: Yes
+AutoPay Enabled: No
+SIP Active: Yes
+Insurance AutoPay: No
+Primary Bank: SBI
