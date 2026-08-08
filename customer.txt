@@ -7,27 +7,3 @@ UPI Enabled: Yes
 AutoPay Enabled: No
 SIP Active: No
 Insurance AutoPay: No
-
-===
-
-Customer Name: Priya Verma
-Age: 34
-Preferred Language: English
-Occupation: Marketing Manager
-Salary Account: Yes
-UPI Enabled: Yes
-AutoPay Enabled: Yes
-SIP Active: No
-Insurance AutoPay: Yes
-
-===
-
-Customer Name: Amit Singh
-Age: 41
-Preferred Language: Hindi
-Occupation: Business Owner
-Salary Account: No
-UPI Enabled: Yes
-AutoPay Enabled: No
-SIP Active: Yes
-Insurance AutoPay: No
