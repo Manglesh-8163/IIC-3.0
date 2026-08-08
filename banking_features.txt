@@ -1,77 +1,20 @@
 Feature: AutoPay
+Explanation: AutoPay automatically pays your recurring bills on the due date, so you don't have to remember them every month.
+- Never miss a bill payment
+- Avoid late payment charges
+- Save time by eliminating manual payments
+- Can be disabled anytime
 
-Simple Explanation:
-AutoPay automatically pays your recurring bills on the due date, so you don't have to remember them every month.
-
-Benefits:
-
-* Never miss a bill payment
-* Avoid late payment charges
-* Save time by eliminating manual payments
-* Can be disabled anytime
-
-Eligibility:
-Customers who make recurring manual bill payments.
-
-Activation Requirement:
-Explicit customer consent.
-
-===
-
-Feature: SIP (Systematic Investment Plan)
-
-Simple Explanation:
-A SIP automatically invests a fixed amount of money every month into a mutual fund, helping you build savings over time.
-
-Benefits:
-
-* Builds long-term wealth
-* Small monthly investments
-* Disciplined investing
-* Flexible amount and cancellation
-
-Eligibility:
-Customers with regular income and no active SIP.
-
-Activation Requirement:
-Explicit customer consent.
-
-===
+Feature: SIP
+Explanation: A SIP automatically invests a fixed amount of money every month into a mutual fund, helping you build savings over time.
+- Builds long-term wealth
+- Small monthly investments
+- Disciplined investing
+- Flexible amount and cancellation
 
 Feature: Insurance AutoPay
-
-Simple Explanation:
-Insurance AutoPay automatically pays your insurance premiums before the due date, ensuring your policy stays active without manual effort.
-
-Benefits:
-
-* Never miss a premium payment
-* Keeps your insurance policy active
-* Saves time every month
-* Can be cancelled anytime
-
-Eligibility:
-Customers who manually pay recurring insurance premiums.
-
-Activation Requirement:
-Explicit customer consent.
-
-===
-
-Feature: UPI AutoPay
-
-Simple Explanation:
-UPI AutoPay lets you automatically pay approved recurring subscriptions such as OTT services, mobile recharge, or utility bills using UPI.
-
-Benefits:
-
-* No need to authorize every payment
-* Secure recurring payments
-* Easy to manage or cancel
-* Works with many popular services
-
-Eligibility:
-Customers with UPI enabled and recurring subscription payments.
-
-Activation Requirement:
-Explicit customer consent.
+Explanation: Insurance AutoPay automatically pays your insurance premiums before the due date, ensuring your policy stays active without manual effort.
+- Never miss a premium payment
+- Keeps your insurance policy active
+- Saves time every month
+- Can be cancelled anytime
