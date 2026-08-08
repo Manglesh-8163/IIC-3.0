@@ -1,69 +1,19 @@
-Customer ID: CUST001
+DATE: 2026-05-10
+DESCRIPTION: Electricity Bill
+AMOUNT: 1450
+PAYMENT_METHOD: Manual
 
-Date: 2026-05-10
-Type: Electricity Bill
-Amount: 1450
-Mode: Manual
+DATE: 2026-06-10
+DESCRIPTION: Electricity Bill
+AMOUNT: 1475
+PAYMENT_METHOD: Manual
 
-Date: 2026-06-10
-Type: Electricity Bill
-Amount: 1475
-Mode: Manual
+DATE: 2026-07-10
+DESCRIPTION: Electricity Bill
+AMOUNT: 1465
+PAYMENT_METHOD: Manual
 
-Date: 2026-07-10
-Type: Electricity Bill
-Amount: 1465
-Mode: Manual
-
-Date: 2026-07-28
-Type: Salary Credit
-Amount: 85000
-Mode: Credit
-
-===
-
-Customer ID: CUST002
-
-Date: 2026-05-31
-Type: Salary Credit
-Amount: 120000
-Mode: Credit
-
-Date: 2026-06-30
-Type: Salary Credit
-Amount: 120000
-Mode: Credit
-
-Date: 2026-07-31
-Type: Salary Credit
-Amount: 120000
-Mode: Credit
-
-Date: 2026-07-15
-Type: Grocery Shopping
-Amount: 3200
-Mode: UPI
-
-===
-
-Customer ID: CUST003
-
-Date: 2026-05-05
-Type: Insurance Premium
-Amount: 8500
-Mode: Manual
-
-Date: 2026-06-05
-Type: Insurance Premium
-Amount: 8500
-Mode: Manual
-
-Date: 2026-07-05
-Type: Insurance Premium
-Amount: 8500
-Mode: Manual
-
-Date: 2026-07-20
-Type: Business Income
-Amount: 150000
-Mode: Credit
+DATE: 2026-07-28
+DESCRIPTION: Salary Credit
+AMOUNT: 85000
+PAYMENT_METHOD: Bank Credit
