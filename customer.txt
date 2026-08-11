@@ -1,9 +1,0 @@
-Customer Name: Rahul Sharma
-Age: 29
-Preferred Language: English
-Occupation: Software Engineer
-Salary Account: Yes
-UPI Enabled: Yes
-AutoPay Enabled: No
-SIP Active: No
-Insurance AutoPay: No
