@@ -2,7 +2,7 @@
 
 **Agentic AI for Context-Aware, Hyper-Personalized Digital Banking**
 
-Built for the Digital Adoption track: *"Awareness isn't the gap — activation is."*
+*🚀 "Awareness isn't the gap — activation is."*
 
 ## The problem
 
@@ -23,9 +23,9 @@ An agentic Digital Adoption Copilot that:
 4. **Activates** the feature — but only with explicit, unambiguous
    consent.
 
-This is an MVP prototype built for a shortlisting round: Gradio UI, no
+We have built this as an MVP prototype for IIC 3.0. Here, we have used Gradio for UI, no
 voice, mock `.txt` data instead of a real database, and a rules-based
-trigger engine instead of a trained model.
+trigger engine instead of a trai
 
 ## Architecture
 
@@ -83,9 +83,8 @@ adoption-copilot/
 ## Model
 
 Uses [Google AI Studio](https://aistudio.google.com) with the model
-`gemini-3.5-flash-lite`, via Google's OpenAI-compatible endpoint (so
-no extra client library is needed -- the `openai` SDK is just pointed
-at Google instead). Both the main agent and the evaluator use the
+`gemini-3.5-flash-lite`, via Google's OpenAI-compatible endpoint (the `openai` SDK is just pointed
+at Google). Both the main agent and the evaluator use the
 same model and client.
 
 ## Setup
@@ -125,7 +124,3 @@ open in your browser.
   `backend/activation.py`.
 - No voice/STT/TTS in this MVP; text chat only.
 - Data lives in flat `.txt` files under `data/`, not a database.
-- `gemini-3.5-flash-lite` has a free-tier rate limit on Google AI
-  Studio — fine for a live demo, but worth testing beforehand in case
-  you hit a 429. The app retries automatically and shows a friendly
-  message instead of crashing if that happens.
