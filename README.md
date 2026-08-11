@@ -31,34 +31,34 @@ trigger engine instead of a trai
 
 ```
 adoption-copilot/
-├── app.py                    # Entry point, no business logic
+├── app.py                    
 ├── requirements.txt
 ├── .env.example
 ├── data/
-│   ├── customer.txt          # 3 demo customer profiles
-│   ├── transactions.txt      # matching transaction histories
-│   └── banking_features.txt  # feature knowledge base
+│   ├── customer.txt          
+│   ├── transactions.txt      
+│   └── banking_features.txt  
 ├── prompts/
-│   ├── system_prompt.py      # SYSTEM_PROMPT for the main agent
-│   └── evaluator_prompt.py   # EVALUATOR_PROMPT for the evaluator LLM
+│   ├── system_prompt.py      
+│   └── evaluator_prompt.py   
 ├── models/
-│   ├── customer.py           # Customer, Transaction (Pydantic)
-│   └── evaluation.py         # Evaluation (Pydantic, evaluator output)
+│   ├── customer.py           
+│   └── evaluation.py         
 ├── agent/
-│   ├── chat.py                # main tool-calling conversation loop
-│   ├── tools.py                # tool functions + OpenAI-style schemas
-│   ├── tool_handler.py         # dispatches LLM tool_calls -> functions
-│   ├── evaluator.py            # runs evaluator LLM, returns Evaluation
-│   └── rerun.py                # owns all retry logic
+│   ├── chat.py                
+│   ├── tools.py                
+│   ├── tool_handler.py         
+│   ├── evaluator.py            
+│   └── rerun.py                
 ├── backend/
-│   ├── data_loader.py          # ONLY module that reads the .txt files
-│   ├── trigger_engine.py       # rules-based opportunity detection
-│   ├── activation.py           # mock feature activation
-│   └── logger.py               # simple console event logging
+│   ├── data_loader.py          
+│   ├── trigger_engine.py       
+│   ├── activation.py           
+│   └── logger.py               
 ├── gradio_ui/
-│   └── interface.py            # launch_interface() -> None
+│   └── interface.py            
 └── utils/
-    ├── llm.py                  # ONLY place the LLM client is created
+    ├── llm.py                  
     ├── constants.py
     └── helpers.py
 ```
