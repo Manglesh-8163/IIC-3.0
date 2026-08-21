@@ -7,7 +7,7 @@ load_dotenv()
 
 def main() -> None:
     """Launch the Adoption Copilot application."""
-    launch_interface(share=True)
+    launch_interface()
 
 
 if __name__ == "__main__":
